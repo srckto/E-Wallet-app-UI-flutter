@@ -2,7 +2,7 @@ import 'package:e_wallet_mobile_app/pages/screens/contacts/screens/request_payme
 import 'package:e_wallet_mobile_app/pages/screens/contacts/screens/send_payment_screen.dart';
 import 'package:flutter/material.dart';
 
-import 'package:e_wallet_mobile_app/modul/user_model.dart';
+import 'package:e_wallet_mobile_app/models/user_model.dart';
 import 'package:e_wallet_mobile_app/pages/widgets/user_image.dart';
 import 'package:e_wallet_mobile_app/styles/constant.dart';
 import 'package:get/get.dart';

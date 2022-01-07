@@ -3,7 +3,7 @@ import 'package:e_wallet_mobile_app/pages/widgets/user_image.dart';
 import 'package:e_wallet_mobile_app/styles/constant.dart';
 import 'package:flutter/material.dart';
 
-import 'package:e_wallet_mobile_app/modul/user_model.dart';
+import 'package:e_wallet_mobile_app/models/user_model.dart';
 
 class BuildUserRequestItem extends StatelessWidget {
   final UserModel user;

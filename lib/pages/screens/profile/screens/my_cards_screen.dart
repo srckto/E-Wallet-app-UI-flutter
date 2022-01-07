@@ -1,5 +1,5 @@
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:e_wallet_mobile_app/modul/user_model.dart';
+import 'package:e_wallet_mobile_app/models/user_model.dart';
 import 'package:e_wallet_mobile_app/pages/screens/profile/screens/add_new_card_screen.dart';
 import 'package:e_wallet_mobile_app/pages/screens/profile/widgets/custom_alert_confirm_delete.dart';
 import 'package:e_wallet_mobile_app/pages/widgets/custom_elevated_button.dart';

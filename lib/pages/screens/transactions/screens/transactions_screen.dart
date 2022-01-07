@@ -1,7 +1,7 @@
 import 'package:e_wallet_mobile_app/pages/screens/transactions/widgets/build_transactions_users.dart';
 import 'package:flutter/material.dart';
 
-import 'package:e_wallet_mobile_app/modul/user_model.dart';
+import 'package:e_wallet_mobile_app/models/user_model.dart';
 import 'package:e_wallet_mobile_app/styles/constant.dart';
 
 // ignore: must_be_immutable
