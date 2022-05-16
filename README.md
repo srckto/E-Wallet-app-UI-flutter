@@ -2,6 +2,8 @@
 
 Design From https://ui8.net/hisham-zayadnh/products/24-ios-mobile-screens-for-sketch-adobe-xd-figma-and-invision?rel=fycom
 
+### Screenshots.
+
 <img src="https://user-images.githubusercontent.com/85505451/168443766-c59f6e0e-e1f0-4a0e-83c5-a018ad4a5376.png" width="350"> <img src="https://user-images.githubusercontent.com/85505451/168443767-401fc0c0-7f8f-4773-a695-add8a43027eb.png" width="350">
 
 <!-- ![1](https://user-images.githubusercontent.com/85505451/168443766-c59f6e0e-e1f0-4a0e-83c5-a018ad4a5376.png) -->
@@ -50,11 +52,3 @@ Design From https://ui8.net/hisham-zayadnh/products/24-ios-mobile-screens-for-sk
 <img src="https://user-images.githubusercontent.com/85505451/168443765-a02a9f18-99f5-4c2d-b63a-ac4f61f4f834.png" width="350">
 
 <!-- ![19](https://user-images.githubusercontent.com/85505451/168443765-a02a9f18-99f5-4c2d-b63a-ac4f61f4f834.png) -->
-
-
-
-
-
-
-
-
